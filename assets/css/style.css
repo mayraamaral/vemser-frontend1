@@ -104,11 +104,11 @@ ul li a {
 }
 
 .main-image {
-  background: url("./assets/images/nasa.jpg") no-repeat bottom center scroll;
+  background-image: url('../images/space-company-1.jpg');
   max-width: 1920px;
   width: 100%;
   height: calc(100vh - 80px);
-  background-size: cover;
+  /* background-size: cover; */
 }
 
 .video {
