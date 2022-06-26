@@ -1,5 +1,5 @@
 # Vem Ser DBC 🚀
-📚 Atividade do módulo Front-end proposta pelo instrutor João Alvares.  
+📚 Atividade do módulo de HTML e CSS - Front-end proposta pelo instrutor João Alvares.  
   
 Dupla:  
 👨‍💻 [Marcos Salles](https://github.com/marcosrsalles)  
